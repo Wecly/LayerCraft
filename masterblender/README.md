@@ -2,7 +2,18 @@
 
 **Blend Asset Reference**
 
+<div style="display:flex; align-items:flex-start; gap:40px;">
+
+<img src="../images/mlb-asset-groups.png" style="width:260px; border-radius:6px;">
+
+<div>
+
 `MLB_MasterBlender` controls how two material layers are composited together. It manages blend behavior, base masking, detail masking, paint data, and overlay compositing through five parameter groups.
+
+</div>
+</div>
+
+---
 
 | Group | Description |
 |-------|-------------|
