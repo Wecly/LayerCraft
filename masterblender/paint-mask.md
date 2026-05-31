@@ -2,7 +2,7 @@
 
 Artist-driven mask using vertex color or a painted texture — gives direct control over layer placement without procedural rules.
 
-<img src="../images/image47.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image47.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 

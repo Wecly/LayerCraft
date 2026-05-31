@@ -2,7 +2,7 @@
 
 All math logic for UV mapping the textures. From projection to fake displacement, variations to animations — almost all UV logic is handled here.
 
-<img src="../images/image73.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image73.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -18,8 +18,8 @@ All math logic for UV mapping the textures. From projection to fake displacement
 
 Reveals per-axis tiling, offset, and rotation controls — replaces the single Tiling value with full UV transform options.
 
-<img src="../images/image25.png" style="max-width:100%; border-radius:6px; margin-bottom:8px;">
-<img src="../images/image26.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image25.png" style="max-width:100%; border-radius:6px; margin-bottom:8px;">
+<img src="images/image26.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -42,7 +42,7 @@ Reveals per-axis tiling, offset, and rotation controls — replaces the single T
 
 Enables world-space UV projection. Exposes triplanar, local, top-down, side, and smooth projection options.
 
-<img src="../images/image12.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image12.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -52,7 +52,7 @@ Enables world-space UV projection. Exposes triplanar, local, top-down, side, and
 | **use SmoothProjection** | Blends the seam between projection faces for a smoother transition without sharp edges. |
 | **Blend Sharpness** | Controls how sharply the triplanar faces blend at their boundaries. |
 
-<img src="../images/image46.png" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image46.png" style="max-width:100%; border-radius:6px; margin-top:16px;">
 
 ---
 
@@ -60,11 +60,11 @@ Enables world-space UV projection. Exposes triplanar, local, top-down, side, and
 
 Enables advanced UV method controls — Atlas, ObjectScale, Offset Variation, Tiling Variation, Animation, Fake Displacement, Fake Shadow, and Silhouette.
 
-<img src="../images/image75.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image75.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 #### use Atlas
 
-<img src="../images/image7.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image7.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -73,11 +73,11 @@ Enables advanced UV method controls — Atlas, ObjectScale, Offset Variation, Ti
 | **Atlas Position Random** | Randomly offsets the atlas position per instance. |
 | **Atlas Size** | Size of each cell in the atlas grid. |
 
-<img src="../images/image48.png" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image48.png" style="max-width:100%; border-radius:6px; margin-top:16px;">
 
 #### use ObjectScale
 
-<img src="../images/image49.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image49.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -97,11 +97,11 @@ Enables advanced UV method controls — Atlas, ObjectScale, Offset Variation, Ti
 | **use Atlas Offset** | Offsets variation within atlas cell boundaries. |
 | **Atlas Offset Size** | Size of the offset step within the atlas. |
 
-<img src="../images/image41.png" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image41.png" style="max-width:100%; border-radius:6px; margin-top:16px;">
 
 #### use Tiling Variation
 
-<img src="../images/image45.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image45.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -122,7 +122,7 @@ Enables UV animation for dynamic surfaces. Exposes Panner, Wave, and Bulge anima
 
 #### use Panner
 
-<img src="../images/image56.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image56.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -135,7 +135,7 @@ Enables UV animation for dynamic surfaces. Exposes Panner, Wave, and Bulge anima
 
 #### use Wave
 
-<img src="../images/image74.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image74.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -155,7 +155,7 @@ Enables UV animation for dynamic surfaces. Exposes Panner, Wave, and Bulge anima
 
 Enables Parallax Occlusion Mapping — simulates depth by ray-marching the height map without actual geometry displacement.
 
-<img src="../images/image27.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image27.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description | Default |
 |-----------|-------------|---------|
@@ -172,7 +172,7 @@ Enables Parallax Occlusion Mapping — simulates depth by ray-marching the heigh
 
 Enables height-based fake shadow — simulates contact shadow using the height map without ray tracing.
 
-<img src="../images/image58.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image58.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -199,7 +199,7 @@ Clips the POM effect at mesh silhouette edges — prevents parallax from extendi
 
 Enables silhouette-aware POM — adjusts parallax at grazing angles to preserve edge believability.
 
-<img src="../images/image61.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image61.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

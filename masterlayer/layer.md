@@ -2,7 +2,7 @@
 
 What kind of layer it will be? Here you can control the material attributes creation and control some general features.
 
-<img src="../images/image32.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image32.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -17,7 +17,7 @@ What kind of layer it will be? Here you can control the material attributes crea
 
 Switches the layer input to a Runtime Virtual Texture — reads color, normal, and height from a baked RVT.
 
-<img src="../images/image57.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image57.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -32,7 +32,7 @@ Switches the layer input to a Runtime Virtual Texture — reads color, normal, a
 
 Enables a texture-free constant material mode. All surface values are set directly as numeric constants.
 
-<img src="../images/image16.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image16.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -47,7 +47,7 @@ Enables a texture-free constant material mode. All surface values are set direct
 
 Switches to per-channel attribute routing — lets you enable or disable each material output independently.
 
-<img src="../images/image54.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image54.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -68,7 +68,7 @@ Switches to per-channel attribute routing — lets you enable or disable each ma
 
 Selects a predefined packed texture format — automatically routes the correct channels without manual setup.
 
-<img src="../images/image29.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image29.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Value | Description |
 |-------|-------------|
@@ -84,8 +84,8 @@ Selects a predefined packed texture format — automatically routes the correct 
 
 Exposes color parameters to Custom Primitive Data — enables per-instance color override set in Details > Rendering > CPD.
 
-<img src="../images/image2.jpg" style="max-width:100%; border-radius:6px; margin-bottom:8px;">
-<img src="../images/image36.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image2.jpg" style="max-width:100%; border-radius:6px; margin-bottom:8px;">
+<img src="images/image36.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

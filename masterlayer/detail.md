@@ -8,7 +8,7 @@ Ambient Occlusion, Normal map intensity, and Detail Normal layers for adding mic
 
 Enables the Ambient Occlusion system for the layer.
 
-<img src="../images/image51.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image51.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -33,7 +33,7 @@ Enables the Ambient Occlusion system for the layer.
 
 Enables a secondary detail normal map layered on top of the base normal.
 
-<img src="../images/image35.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image35.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -50,7 +50,7 @@ Enables a secondary detail normal map layered on top of the base normal.
 
 Enables a second independent detail normal layer — allows two separate micro-surface passes at different scales or angles.
 
-<img src="../images/image37.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image37.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

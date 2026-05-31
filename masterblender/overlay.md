@@ -2,7 +2,7 @@
 
 Final compositing pass applied on top of all blend operations. Adds per-layer color, roughness, and normal variation driven by the blend mask — each layer gets independent overlay attributes.
 
-<img src="../images/image13.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image13.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -43,7 +43,7 @@ Enables roughness variation via overlay — adjusts roughness per layer independ
 
 Enables normal variation and edge-based normal generation via overlay.
 
-<img src="../images/image68.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image68.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

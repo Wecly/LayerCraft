@@ -2,7 +2,7 @@
 
 Displacement, World Position Offset, noise-driven deformation, animation, and wind systems.
 
-<img src="../images/image33.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image33.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -20,7 +20,7 @@ Displacement, World Position Offset, noise-driven deformation, animation, and wi
 
 Enables World Position Offset for the layer.
 
-<img src="../images/image24.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image24.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -34,7 +34,7 @@ Enables World Position Offset for the layer.
 
 Activates SimpleGrassWind-based animation.
 
-<img src="../images/image40.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image40.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -48,7 +48,7 @@ Activates SimpleGrassWind-based animation.
 
 Enables procedural time-driven animation of the WPO offset.
 
-<img src="../images/image62.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image62.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -61,7 +61,7 @@ Enables procedural time-driven animation of the WPO offset.
 
 Master toggle for WPO noise modulation.
 
-<img src="../images/image66.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image66.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

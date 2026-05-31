@@ -2,7 +2,7 @@
 
 Controls albedo brightness, tinting, correction, masking, subsurface scattering, and emissive output.
 
-<img src="../images/image39.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image39.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -16,7 +16,7 @@ Controls albedo brightness, tinting, correction, masking, subsurface scattering,
 
 Reveals fine-grained color correction tools — tinting, contrast, desaturation, and hue rotation.
 
-<img src="../images/image69.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image69.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -30,8 +30,8 @@ Reveals fine-grained color correction tools — tinting, contrast, desaturation,
 
 Enables a curve-based remapping of the albedo output. Only when Albedo Texture is disabled.
 
-<img src="../images/image52.png" style="max-width:100%; border-radius:6px; margin-bottom:8px;">
-<img src="../images/image53.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image52.png" style="max-width:100%; border-radius:6px; margin-bottom:8px;">
+<img src="images/image53.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -41,7 +41,7 @@ Enables a curve-based remapping of the albedo output. Only when Albedo Texture i
 
 When Albedo Texture is disabled, additional mask textures can be used as color mask.
 
-<img src="../images/image21.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image21.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -62,7 +62,7 @@ A masking layer for base color — enabling per-region desaturation, brightness 
 | **Albedo Mask Channel** | Selects the texture channel (R/G/B/A) used as the albedo mask. |
 | **Albedo Mask Amount** | Threshold offset for the albedo mask. |
 
-<img src="../images/image72.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image72.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
 | **Albedo Mask Contrast** | Controls the edge sharpness of the albedo masked region. |
 | **Albedo Mask Desaturation** | Desaturates the albedo within the masked area. |
 | **Albedo Mask Brightness** | Scales brightness independently within the albedo masked region. |
@@ -74,7 +74,7 @@ A masking layer for base color — enabling per-region desaturation, brightness 
 
 Applies a localized darkening pass via texture mask — simulates ambient occlusion without baking new maps.
 
-<img src="../images/image1.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image1.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -88,7 +88,7 @@ Applies a localized darkening pass via texture mask — simulates ambient occlus
 
 Activates subsurface scattering — light penetrates and diffuses beneath the surface.
 
-<img src="../images/image28.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image28.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -108,7 +108,7 @@ Enables emissive output connecting to Unreal's emissive channel, interacting wit
 | **Emissive from BaseColor** | Derives emissive color directly from Base Color. |
 | **Emissive Color** | Direct emissive color picker. Active only when `Emissive from BaseColor` is OFF. |
 
-<img src="../images/image22.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image22.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
 | **Color - use EmissiveMask** | Enables a texture mask to restrict emission to specific surface regions. |
 | **EmissiveMask from Albedo - use Packed** | Reads the emissive mask from a packed channel of the albedo texture — saves a texture slot. |
 | **EmissiveMask Channel** | Selects which channel (R/G/B/A) carries the emissive mask data. |
@@ -119,7 +119,7 @@ Enables emissive output connecting to Unreal's emissive channel, interacting wit
 
 Adds procedural animated flickering to the emissive output — no Blueprint, no timeline.
 
-<img src="../images/image63.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image63.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

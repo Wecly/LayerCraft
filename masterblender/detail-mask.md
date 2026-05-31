@@ -2,7 +2,7 @@
 
 Secondary mask layered on top of the base mask — adds fine-detail variation and breakup. Supports attribute-specific masking and noise-driven detail.
 
-<img src="../images/image3.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image3.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -31,7 +31,7 @@ Secondary mask layered on top of the base mask — adds fine-detail variation an
 | **BaseColor-Black** | Uses the dark regions of the base color as the mask. |
 | **BaseColor Channel** | Selects which channel (R/G/B/A) of the base color texture drives the detail mask. |
 
-<img src="../images/image71.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image71.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
 
 ---
 
@@ -39,7 +39,7 @@ Secondary mask layered on top of the base mask — adds fine-detail variation an
 
 Switches detail mask to noise-driven mode — a texture noise pattern drives the mask instead of attribute data.
 
-<img src="../images/image55.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image55.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

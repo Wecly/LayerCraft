@@ -2,7 +2,7 @@
 
 Defines the primary mask driving layer visibility. Supports anchor masks, procedural generation, and texture-based masking — combinable for complex blending setups.
 
-<img src="../images/image50.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image50.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -21,7 +21,7 @@ Defines the primary mask driving layer visibility. Supports anchor masks, proced
 
 Reveals additional mask controls: amount, contrast, range, and invert.
 
-<img src="../images/image60.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image60.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -34,7 +34,7 @@ Reveals additional mask controls: amount, contrast, range, and invert.
 
 ### ♦ use Procedural Mask
 
-<img src="../images/image9.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image9.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 Enables procedurally generated masking. Exposes multiple mask types:
 
@@ -57,7 +57,7 @@ Enables procedurally generated masking. Exposes multiple mask types:
 
 Enables a texture asset as the primary blend mask.
 
-<img src="../images/image44.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image44.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -77,7 +77,7 @@ Enables a texture asset as the primary blend mask.
 
 #### use TextureMask Tiling Controls
 
-<img src="../images/image43.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image43.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -88,5 +88,5 @@ Enables a texture asset as the primary blend mask.
 | **TextureMask Offset Y** | Vertical UV offset. |
 | **TextureMask Offset Z** | Z-axis UV offset for world-projected masks. |
 
-<img src="../images/image65.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
-<img src="../images/image10.jpg" style="max-width:100%; border-radius:6px; margin-top:8px;">
+<img src="images/image65.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image10.jpg" style="max-width:100%; border-radius:6px; margin-top:8px;">

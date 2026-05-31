@@ -15,7 +15,7 @@
 
 ---
 
-<img src="../images/image15.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image15.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Group | Description |
 |-------|-------------|

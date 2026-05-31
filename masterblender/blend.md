@@ -2,7 +2,7 @@
 
 Blend group controls how layers are combined. Use Parallax Shadow to carry the bottom layer shadow through to the top, creating realistic contact depth at layer boundaries.
 
-<img src="../images/image34.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image34.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -22,7 +22,7 @@ Blend group controls how layers are combined. Use Parallax Shadow to carry the b
 
 Applies a parallax-based contact shadow at the layer boundary — carries the bottom layer shadow onto the top layer for realistic depth.
 
-<img src="../images/image11.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image11.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -30,7 +30,7 @@ Applies a parallax-based contact shadow at the layer boundary — carries the bo
 
 Switches to per-attribute blending — each material channel can be blended independently.
 
-<img src="../images/image31.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image31.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -50,5 +50,5 @@ Switches to per-attribute blending — each material channel can be blended inde
 
 Independent toggles: **use BaseColor**, **use Emissive**, **use Roughness**, **use Metallic**, **use Normal**, **use Displacement**, **use Specular**, **use WPO**, **use Occlusion**, **use Opacity**
 
-<img src="../images/image4.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
-<img src="../images/image17.jpg" style="max-width:100%; border-radius:6px; margin-top:8px;">
+<img src="images/image4.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image17.jpg" style="max-width:100%; border-radius:6px; margin-top:8px;">

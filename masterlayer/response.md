@@ -2,7 +2,7 @@
 
 Controls all PBR response attributes — Roughness, Specular, Metallic, and Opacity.
 
-<img src="../images/image64.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+<img src="images/image64.png" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 ---
 
@@ -34,12 +34,12 @@ Enables the opacity/transparency system. Exposes mask, fade, amount, and texture
 | **Opacity Mask - use Overall** | Uses a global opacity mask that applies across the entire layer. |
 | **Opacity Mask Dither** | Enables dithered transparency — creates a screen-door dissolve pattern. |
 
-<img src="../images/image38.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image38.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">
 | **PerInstanceFade** | Amount ready to be integrated for foliage optimization. |
 | **Opacity Amount** | Base opacity threshold. `1.0` = fully opaque. |
 | **Opacity Contrast** | Controls how abruptly the surface transitions from opaque to transparent. |
 | **use Opacity from Albedo** | Sources opacity data from a packed channel of the albedo texture. |
 
-<img src="../images/image23.png" style="max-width:100%; border-radius:6px; margin-top:16px;">
+<img src="images/image23.png" style="max-width:100%; border-radius:6px; margin-top:16px;">
 | **Alpha - use Black Mask** | Uses black values of Albedo as Opacity Mask instead of Alpha channel. |
 | **Packed - use Opacity Texture** | Sources opacity data from dedicated Opacity Texture instead of Packed Texture. |
