@@ -8,7 +8,7 @@
 
 <div style="display:flex; align-items:flex-start; gap:40px;">
 
-<img src="../images/ml-asset-groups.png" style="width:260px; border-radius:6px;">
+<img src="images/ml-asset-groups.png" style="width:260px; border-radius:6px;">
 
 <div style="font-size:1.1em; line-height:2.2;">
 
