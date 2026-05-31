@@ -9,7 +9,7 @@
 
 * **ML\_MasterLayer**
   * [Overview](masterlayer/README.md)
-  * [🎭 Layer](masterlayer/layer.md)
+  * [🛠️ Layer](masterlayer/layer.md)
   * [🖼️ Textures](masterlayer/textures.md)
   * [🗺️ UV Logic](masterlayer/uv-logic.md)
   * [🎨 Color](masterlayer/color.md)
@@ -20,7 +20,7 @@
 
 * **MLB\_MasterBlender**
   * [Overview](masterblender/README.md)
-  * [⚙️ Blend](masterblender/blend.md)
+  * [🛠️ Blend](masterblender/blend.md)
   * [🎭 Base Mask](masterblender/basemask.md)
   * [🔍 Detail Mask](masterblender/detail-mask.md)
   * [🎨 Paint Mask](masterblender/paint-mask.md)
