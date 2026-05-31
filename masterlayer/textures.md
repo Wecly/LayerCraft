@@ -2,6 +2,8 @@
 
 All the texture inputs and packing methods are set here.
 
+<img src="../images/image6.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 ---
 
 ### Texture Slots
@@ -21,6 +23,9 @@ All the texture inputs and packing methods are set here.
 
 Switches texture inputs to Texture 2D Array mode — enables index-based or randomized selection from an array asset.
 
+<img src="../images/image70.jpg" style="max-width:100%; border-radius:6px; margin-bottom:8px;">
+<img src="../images/image5.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 | Parameter | Description |
 |-----------|-------------|
 | **use Texture Array Random Index** | Assigns a random array index per instance — produces automatic texture variation. |
@@ -32,11 +37,16 @@ Switches texture inputs to Texture 2D Array mode — enables index-based or rand
 
 > **How to create a Texture 2D Array:** Content Browser > Create Advanced Asset > Texture > Texture 2D Array, then populate its Source Textures array with your texture assets.
 
+<img src="../images/image67.jpg" style="max-width:100%; border-radius:6px; margin-bottom:8px;">
+<img src="../images/image30.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 ---
 
 ### ♦ use Virtual Textures
 
 Switches all texture inputs to Virtual Texture counterparts — enables RVT streaming workflow.
+
+<img src="../images/image18.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -44,3 +54,5 @@ Switches all texture inputs to Virtual Texture counterparts — enables RVT stre
 | **Packed V-Texture** | Virtual Texture asset for the packed data channel. |
 | **Normal V-Texture** | Virtual Texture asset for the normal map channel. |
 | **use Sampler Clamped** | Clamp sampler — disables UV repeat. Required for unique-mapped or atlas-based surfaces. |
+
+<img src="../images/image8.jpg" style="max-width:100%; border-radius:6px; margin-top:16px;">

@@ -8,6 +8,8 @@ Ambient Occlusion, Normal map intensity, and Detail Normal layers for adding mic
 
 Enables the Ambient Occlusion system for the layer.
 
+<img src="../images/image51.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 | Parameter | Description |
 |-----------|-------------|
 | **Packed - use Combined AO** | Reads AO from a packed channel combining base and detail AO — reduces texture bandwidth. |
@@ -31,6 +33,8 @@ Enables the Ambient Occlusion system for the layer.
 
 Enables a secondary detail normal map layered on top of the base normal.
 
+<img src="../images/image35.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 | Parameter | Description |
 |-----------|-------------|
 | **use Detail Normal World Projection** | Projects the detail normal in world space — prevents stretching on steep surfaces. |
@@ -45,6 +49,8 @@ Enables a secondary detail normal map layered on top of the base normal.
 ### ♦ use Detail Normal - 2
 
 Enables a second independent detail normal layer — allows two separate micro-surface passes at different scales or angles.
+
+<img src="../images/image37.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

@@ -15,6 +15,8 @@
 
 ---
 
+<img src="../images/image15.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 | Group | Description |
 |-------|-------------|
 | **BLEND** | Blend method, per-attribute weights, debug, parallax shadow, and anchor mask. |

@@ -2,6 +2,8 @@
 
 Displacement, World Position Offset, noise-driven deformation, animation, and wind systems.
 
+<img src="../images/image33.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 ---
 
 ### Displacement
@@ -18,6 +20,8 @@ Displacement, World Position Offset, noise-driven deformation, animation, and wi
 
 Enables World Position Offset for the layer.
 
+<img src="../images/image24.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 | Parameter | Description |
 |-----------|-------------|
 | **VertexNormal - use Axis Direction** | Drives WPO along vertex normals instead of a fixed axis vector. |
@@ -29,6 +33,8 @@ Enables World Position Offset for the layer.
 ### ♦ use GrassWind
 
 Activates SimpleGrassWind-based animation.
+
+<img src="../images/image40.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
@@ -42,6 +48,8 @@ Activates SimpleGrassWind-based animation.
 
 Enables procedural time-driven animation of the WPO offset.
 
+<img src="../images/image62.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 | Parameter | Description |
 |-----------|-------------|
 | **Periodic - Random Deform** | Switches between rhythmic sine-wave (OFF) and randomized (ON) deformation. |
@@ -52,6 +60,8 @@ Enables procedural time-driven animation of the WPO offset.
 ### ♦ WPO Noise
 
 Master toggle for WPO noise modulation.
+
+<img src="../images/image66.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|

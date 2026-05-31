@@ -8,6 +8,8 @@ Noise overlay and per-instance randomization systems for color, roughness, norma
 
 Enables a texture-driven noise overlay that modulates color, roughness, displacement, and normals across the surface.
 
+<img src="../images/image42.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
+
 | Parameter | Description |
 |-----------|-------------|
 | **Noise Texture - use Cloud Noise** | Uses cloud noise as the variation source instead of a custom texture. |
@@ -71,6 +73,8 @@ Enables noise-driven normal intensity variation — locally strengthens or weake
 ### ♦ use Randomization
 
 Enables per-instance randomization of color, roughness, normals, and displacement.
+
+<img src="../images/image14.jpg" style="max-width:100%; border-radius:6px; margin-bottom:16px;">
 
 | Parameter | Description |
 |-----------|-------------|
