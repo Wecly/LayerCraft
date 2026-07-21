@@ -12,13 +12,13 @@
 
 <div style="font-size:1.1em; line-height:2.2;">
 
-**🎭 Layer**<br>↓<br>
-**🗺️ UV Logic**<br>↓<br>
-**🖼️ Textures**<br>↓<br>
-**🎨 Color**<br>↓<br>
-**💎 Response**<br>↓<br>
-**🔍 Detail**<br>↓<br>
-**🏔️ Deform**<br>↓<br>
+**🎭 Layer**
+**🗺️ UV Logic**
+**🖼️ Textures**
+**🎨 Color**
+**💎 Response**
+**🔍 Detail**
+**🏔️ Deform**
 **🎲 Variation**
 
 </div>
